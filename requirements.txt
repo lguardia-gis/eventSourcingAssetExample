@@ -1,0 +1,5 @@
+# Project dependencies
+# eventsourcing library is needed for event sourcing features used in domain and application modules
+# pinned to a modern version known to work with Python 3.11
+
+eventsourcing==9.2.18
